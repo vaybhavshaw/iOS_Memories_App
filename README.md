@@ -1,23 +1,16 @@
-# Module 4 Group Assignment: Mobile Thing
-
-CSCI 5117, Fall 2017, [assignment description](https://docs.google.com/document/d/1lYgnikooJgHZmLtAzKe1yTFgR7Czz9MGSXuQzl-s3R0)
+# iOS Memories App
 
 ## App Info:
-
-* Team Name: val=n
-* App Name: Memory
 * App Link: <https://expo.io/@lakshyagoel/5117-rnpt>
 
 ### Students
-
+* Vaybhav Shaw, shaw0162@umn.edu
 * Lakshya Goel, goel0072@umn.edu
 * Nishka Monteiro, monte299@umn.edu
 * Akifumi Nakamachi, nakam052@umn.edu
-* Vaybhav Shaw, shaw0162@umn.edu
 
 
 ## Key Features
-
 * Allows to create Memories.
 * Can save images from Camera Roll or take images to add to the memory.
 * Can view the collection of images made with all the memories created.
